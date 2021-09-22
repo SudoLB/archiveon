@@ -4,7 +4,7 @@ A text analyzer that shows you a text file along with statistics on the text. Th
 
 # What I Learned/Skills Used
 
-• Using Bootstrap to build my front-end UI
+• Using Bootstrap, HTML. and CSS to build my front-end UI
 
 • Linear gradient background styling
 
